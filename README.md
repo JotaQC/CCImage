@@ -26,7 +26,6 @@ cd CCImage
 ```
 pip install -r requirements.txt
 ```
-> Requiere `Pillow` y `customtkinter`.
 3. Ejecuta la aplicación:
 ```
 python ccimage.py
