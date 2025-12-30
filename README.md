@@ -38,9 +38,15 @@ python ccimage.py
 4. Visualiza el antes y después de la imagen y su tamaño final.
 5. Haz clic en <b>"Convertir"</b> para guardar la imagen procesada.
 >[!NOTE]
->La imagen se guardará en el mismo directorio donde seleccionaste la original con el mismo nombre añadiendo `_compressed` al final de este.
+>La imagen se guardará en el mismo directorio donde seleccionaste la original con el mismo nombre añadiendo `_edited.` al final de este.
+
+>[!IMPORTANT]
+>Sí usas la función por lotes:
+>1. Indicar el directorio de salida.
+>2. Configura antes los parámetros, si quieres procesamiento activo (más agresivo) o sin activar procesamiento (procesamiento mínimo).
+>3. Seleccionar imagenes a procesar. Una vez seleccionadas y añadidas, se procesarán automáticamente.
 
 ## 💡 Mejoras futuras ☝️🤓
-- [ ] Ajuste de resolución.
-- [ ] Procesamiento por lotes (varias imágenes a la vez).
+- [x] Ajuste de resolución.
+- [x] Procesamiento por lotes (varias imágenes a la vez).
 - [ ] Soporte para más formatos de imagen.
