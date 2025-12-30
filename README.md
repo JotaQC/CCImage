@@ -41,7 +41,7 @@ python ccimage.py
 >La imagen se guardará en el mismo directorio donde seleccionaste la original con el mismo nombre añadiendo `_edited.` al final de este.
 
 >[!IMPORTANT]
->Sí usas la función por lotes:
+>Si usas la función por lotes:
 >1. Indicar el directorio de salida.
 >2. Configura antes los parámetros, si quieres procesamiento activo (más agresivo) o sin activar procesamiento (procesamiento mínimo).
 >3. Seleccionar imagenes a procesar. Una vez seleccionadas y añadidas, se procesarán automáticamente.
