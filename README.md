@@ -38,7 +38,7 @@ python ccimage.py
 4. Visualiza el antes y después de la imagen y su tamaño final.
 5. Haz clic en <b>"Convertir"</b> para guardar la imagen procesada.
 >[!NOTE]
->La imagen se guardará en el mismo directorio donde seleccionaste la original con el mismo nombre añadiendo `_compressed` al final de este.
+>La imagen se guardará en el mismo directorio donde seleccionaste la original con el mismo nombre añadiendo `_edited.` al final de este.
 
 ## 💡 Mejoras futuras ☝️🤓
 - [x] Ajuste de resolución.
