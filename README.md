@@ -41,6 +41,6 @@ python ccimage.py
 >La imagen se guardará en el mismo directorio donde seleccionaste la original con el mismo nombre añadiendo `_compressed` al final de este.
 
 ## 💡 Mejoras futuras ☝️🤓
-- [ ] Ajuste de resolución.
-- [ ] Procesamiento por lotes (varias imágenes a la vez).
+- [x] Ajuste de resolución.
+- [x] Procesamiento por lotes (varias imágenes a la vez).
 - [ ] Soporte para más formatos de imagen.
